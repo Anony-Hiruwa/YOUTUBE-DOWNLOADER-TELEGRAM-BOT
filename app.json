@@ -1,17 +1,17 @@
 {
-  "name": "YouTube Downloader Bot",
-  "description": "A telegram bot To Download Youtube Files ",
-  "logo": "https://telegra.ph/file/6a3b1febade2313dd0dca.jpg",
+  "name": " ❰🍁🔱 T Rex TG 🔱🍁❱  YouTube Downloader Bot",
+  "description": "A telegram bot To Download Youtube VIDEOES,AUDIOES ",
+  "logo": "https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg",
   "keywords": [
-    "Youtube","YoutubeDownloader"
+    "Youtube","YoutubeDownloader","T-Rex TG"
   ],
-  "repository": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
-  "success_url": "https://t.me/youtubdlbot",
-  "website": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
+  "repository": "https://github.com/Dark-Knight-Hiruwa/YOUTUBE-DOWNLOADER-TELEGRAM-BOT",
+  "success_url": "https://github.com/Dark-Knight-Hiruwa/YOUTUBE-DOWNLOADER-TELEGRAM-BOT",
+  "website": "https://github.com/Dark-Knight-Hiruwa/YOUTUBE-DOWNLOADER-TELEGRAM-BOT",
   "env": {
-        "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
-        "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
-        "BOT_TOKEN": {"description": "Get Bot Token From BotFather Bot","required": true}
+        "API_ID": {"description": "මෙම කේතය ගැනීම සදහා ඉදිරියේ ඇති ලින්ක් එක වෙත පිවිසෙන්න.. Get this value from https://my.telegram.org", "required": true},
+        "API_HASH": {"description": "මෙම කේතය ලබා ගැනීම සදහා ඉදිරියේ ඇති ලින්ක් එක වෙත පිවිසෙන්න.. Get this value from https://my.telegram.org" , "required": true},
+        "BOT_TOKEN": {"description": "ඔබගේ ටෙලිග්‍රෑම් බොට්ගේ API කී එක( BOT TOKEN ) ...Get Bot Token From BotFather Bot","required": true}
   },
       "buildpacks": [
         {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
